@@ -1,0 +1,17 @@
+div p {
+    color: red;
+}
+
+div > p {
+    color: blue;
+}
+
+div ~ p {
+    color: brown;
+    background: orange;
+}
+
+div + p {
+    color: green;
+    background: purple;
+}
