@@ -1,0 +1,25 @@
+h1 {
+    color: blue\]
+    
+    ;
+}
+
+.div-block {
+    height: 200px;
+    width: 350px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 2px dotted brown;
+}
+
+/* Due to the span being an inline element the border will be smashed 
+unless I put the display property and make the value block. */
+
+.span-inline {
+   color: blue;
+   height: 200px;
+   width: 350px;
+   /* display: block; */
+   margin: 0 auto;
+   border: 2px groove red; 
+}
