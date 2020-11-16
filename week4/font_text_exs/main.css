@@ -1,0 +1,62 @@
+#ser-text {
+    font-family: serif;
+    font-size: 2.5em;
+}
+
+#san-ser-text {
+    font-family: sans-serif;
+    font-size: 2.5em;
+}
+
+#goog-text {
+    font-size: 2.5em;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+#goog-text2 {
+    font-size: 2.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+
+
+}
+
+#up-ital {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 2.5em;
+}
+
+#space {
+    font-size: 2.5em;
+    letter-spacing: 3px;
+}
+
+#shadow {
+    font-size: 2.5em;
+    text-shadow: 2px 3px;
+}
+
+#no-line {
+    font-size: 2.5em;
+}
+#no-line a:link {
+    text-decoration: none;
+}
+
+#no-line a:hover {
+    text-decoration: underline;
+}
+
+#strike {
+    font-size: 1.5em;
+    text-decoration: line-through;
+}
+
+#indent {
+    font-size: 2.5em;
+}
+#indent::first-line {
+    text-indent: 2em;
+}
